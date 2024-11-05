@@ -24,4 +24,4 @@ python TxtToJpg.py
 It will generate an `output_image.jpg` image file
 
 <hr>
-![output](https://github.com/hangita101/MAndelbrot-set/blob/main/output_image.jpg)
+![output](https://github.com/hangita101/MAndelbrot-set/blob/main/output_image.jpg?raw=true)
